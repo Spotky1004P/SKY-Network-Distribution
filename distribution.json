@@ -296,6 +296,16 @@
           }
         },
         {
+          "id": "com.mjr:extraplanets:1.12.2-0.7.6@jar",
+          "name": "Extra Planets",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8693383,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/sky_network-1.12.2/forgemods/required/ExtraPlanets-1.12.2-0.7.6.jar",
+            "MD5": "a58f803fdf7e42b61cd663e949837c38"
+          }
+        },
+        {
           "id": "com.flansmod:flansmod:5.10.0@jar",
           "name": "Flan's Mod",
           "type": "ForgeMod",
@@ -303,6 +313,26 @@
             "size": 2259973,
             "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/sky_network-1.12.2/forgemods/required/Flan's+Mod-1.12.2-5.10.0.jar",
             "MD5": "0cc53ac00145d96448d5d20eae4e2ed6"
+          }
+        },
+        {
+          "id": "micdoodle8.mods.galacticraft.core:galacticraftcore:4.0.6@jar",
+          "name": "Galacticraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15679501,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/sky_network-1.12.2/forgemods/required/Galacticraft-1.12.2-4.0.6.jar",
+            "MD5": "cb4cc1f63559675971914c8742d89c32"
+          }
+        },
+        {
+          "id": "com.mjr:mjrlegendslib:1.12.2-1.2.1@jar",
+          "name": "MJRLegendsLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 116827,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/sky_network-1.12.2/forgemods/required/MJRLegendsLib-1.12.2-1.2.1.jar",
+            "MD5": "2574d7dded03b088be7ff5909f66d9c9"
           }
         },
         {
