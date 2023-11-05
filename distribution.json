@@ -346,16 +346,6 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.12.2_HD_U_F5@jar",
-          "name": "OptiFine 1.12.2_HD_U_F5",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2598821,
-            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/sky_network-1.12.2/forgemods/required/OptiFine_1.12.2_HD_U_F5.jar",
-            "MD5": "043ac1db6f7441ea4cf31bcb621aff0b"
-          }
-        },
-        {
           "id": "com.flansmod.simple:simplepartspack:5.7.2@jar",
           "name": "Simple Parts Pack",
           "type": "ForgeMod",
