@@ -391,9 +391,9 @@
           "type": "File",
           "artifact": {
             "size": 50559,
-            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/sky_network-1.12.2/files/Flan/Apocalypse-Content%20Pack-1.12.2-5.5.1.jar",
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/sky_network-1.12.2/files/Flan_/Apocalypse-Content%20Pack-1.12.2-5.5.1.jar",
             "MD5": "6d12b69fb3deab576aedddcc7b54f044",
-            "path": "Flan/Apocalypse-Content Pack-1.12.2-5.5.1.jar"
+            "path": "Flan_/Apocalypse-Content Pack-1.12.2-5.5.1.jar"
           }
         },
         {
@@ -402,9 +402,9 @@
           "type": "File",
           "artifact": {
             "size": 6392830,
-            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/sky_network-1.12.2/files/Flan/Modern%20Warfare-Content%20Pack-1.12.2-5.5.2.jar",
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/sky_network-1.12.2/files/Flan_/Modern%20Warfare-Content%20Pack-1.12.2-5.5.2.jar",
             "MD5": "45224228e5602620d9fd562d6615fbaf",
-            "path": "Flan/Modern Warfare-Content Pack-1.12.2-5.5.2.jar"
+            "path": "Flan_/Modern Warfare-Content Pack-1.12.2-5.5.2.jar"
           }
         },
         {
@@ -413,9 +413,9 @@
           "type": "File",
           "artifact": {
             "size": 234016,
-            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/sky_network-1.12.2/files/Flan/Simple%20Parts-Content%20Pack-1.12.2-5.5.2.jar",
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/sky_network-1.12.2/files/Flan_/Simple%20Parts-Content%20Pack-1.12.2-5.5.2.jar",
             "MD5": "9cd6b1cb9f70d08663c690c0da718bad",
-            "path": "Flan/Simple Parts-Content Pack-1.12.2-5.5.2.jar"
+            "path": "Flan_/Simple Parts-Content Pack-1.12.2-5.5.2.jar"
           }
         },
         {
@@ -424,9 +424,9 @@
           "type": "File",
           "artifact": {
             "size": 5636950,
-            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/sky_network-1.12.2/files/Flan/WW2-Content+Pack-1.12.2-5.7.2.jar",
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/sky_network-1.12.2/files/Flan_/WW2-Content+Pack-1.12.2-5.7.2.jar",
             "MD5": "0f4b59db4605f5ccab6ece88d22f21b3",
-            "path": "Flan/WW2-Content+Pack-1.12.2-5.7.2.jar"
+            "path": "Flan_/WW2-Content+Pack-1.12.2-5.7.2.jar"
           }
         }
       ]
