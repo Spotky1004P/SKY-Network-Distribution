@@ -1,7 +1,7 @@
 {
   "$schema": "file:///D:/Launcher_Comm/SKY-Network/SKY-Network-Distribution/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "name": "SKY Network",
     "description": "SKY Network 서버에 접속하기 위해서 적용해야 하는 모드가 들어있는 모드팩입니다!",
     "icon": "https://cdn.discordapp.com/avatars/1168208544139575347/9b90ba258cc36cdaa624786beae48347.png?size=256",

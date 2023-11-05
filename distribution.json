@@ -12,7 +12,7 @@
       "name": "SKY Network",
       "description": "SKY Network 서버에 접속하기 위해서 적용해야 하는 모드가 들어있는 모드팩입니다!",
       "icon": "https://cdn.discordapp.com/avatars/1168208544139575347/9b90ba258cc36cdaa624786beae48347.png?size=256",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "address": "cornnet.nvh.kr",
       "minecraftVersion": "1.12.2",
       "discord": {
@@ -311,7 +311,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2259973,
-            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/sky_network-1.12.2/forgemods/required/Flan's+Mod-1.12.2-5.10.0.jar",
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/sky_network-1.12.2/forgemods/required/Flan_s+Mod-1.12.2-5.10.0.jar",
             "MD5": "0cc53ac00145d96448d5d20eae4e2ed6"
           }
         },
@@ -336,6 +336,36 @@
           }
         },
         {
+          "id": "com.flansmod.modernweapons:modernweaponspack:5.8.2@jar",
+          "name": "Modern Weapons Pack",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 30240221,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/sky_network-1.12.2/forgemods/required/Modern+Warfare-Content+Pack-1.12.2-5.8.2.jar",
+            "MD5": "c7fbaf1f1bcdfab62016e61f51a8d347"
+          }
+        },
+        {
+          "id": "net.optifine:optifine:1.12.2_HD_U_F5@jar",
+          "name": "OptiFine 1.12.2_HD_U_F5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2598821,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/sky_network-1.12.2/forgemods/required/OptiFine_1.12.2_HD_U_F5.jar",
+            "MD5": "043ac1db6f7441ea4cf31bcb621aff0b"
+          }
+        },
+        {
+          "id": "com.flansmod.simple:simplepartspack:5.7.2@jar",
+          "name": "Simple Parts Pack",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 237132,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/sky_network-1.12.2/forgemods/required/Simple+Parts-Content+Pack-1.12.2-5.7.2.jar",
+            "MD5": "97d6e5d81d1cd9bf6cd1f1fcec657f4d"
+          }
+        },
+        {
           "id": "techguns:techguns:1.12.2-2.0.1.2@jar",
           "name": "Techguns",
           "type": "ForgeMod",
@@ -343,6 +373,16 @@
             "size": 25435696,
             "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/sky_network-1.12.2/forgemods/required/Techguns-Mod-1.12.2.jar",
             "MD5": "43ad84191cda8a2aabf55a5e9a3c6adc"
+          }
+        },
+        {
+          "id": "com.flansmod.ww2:ww2pack:5.7.2@jar",
+          "name": "WW2 Pack",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5636950,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/sky_network-1.12.2/forgemods/required/WW2-Content+Pack-1.12.2-5.7.2.jar",
+            "MD5": "0f4b59db4605f5ccab6ece88d22f21b3"
           }
         },
         {
