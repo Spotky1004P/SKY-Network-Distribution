@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/Launcher_Comm/SKY-Network/SKY-Network-Distribution/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "RPG",
+    "description": "RPG",
+    "icon": "",
+    "address": "example.com",
+    "discord": {
+      "shortId": "RPG",
+      "largeImageText": "RPG",
+      "largeImageKey": "icon"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "40.2.4"
+  },
+  "untrackedFiles": []
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/Launcher_Comm/SKY-Network/SKY-Network-Distribution/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "우주 FPS",
+    "description": "우주 FPS",
+    "icon": "",
+    "address": "example.com",
+    "discord": {
+      "shortId": "우주 FPS",
+      "largeImageText": "우주 FPS",
+      "largeImageKey": "icon"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "14.23.5.2859"
+  },
+  "untrackedFiles": []
+}

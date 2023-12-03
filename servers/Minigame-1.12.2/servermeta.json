@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/Launcher_Comm/SKY-Network/SKY-Network-Distribution/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "미니게임",
+    "description": "미니게임",
+    "icon": "",
+    "address": "example.com",
+    "discord": {
+      "shortId": "미니게임",
+      "largeImageText": "미니게임",
+      "largeImageKey": "icon"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "14.23.5.2859"
+  },
+  "untrackedFiles": []
+}

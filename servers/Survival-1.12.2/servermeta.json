@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/Launcher_Comm/SKY-Network/SKY-Network-Distribution/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "야생",
+    "description": "야생",
+    "icon": "",
+    "address": "example.com",
+    "discord": {
+      "shortId": "야생",
+      "largeImageText": "야생",
+      "largeImageKey": "icon"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "14.23.5.2859"
+  },
+  "untrackedFiles": []
+}
