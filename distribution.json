@@ -846,6 +846,16 @@
           }
         },
         {
+          "id": "com.mrcrayfish.obfuscate.asm:obfuscate:0.4.2-1.12.2_1@jar",
+          "name": "Obfuscate",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 129099,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/National_War-1.12.2/forgemods/required/obfuscate-0.4.2-1.12.2_1.jar",
+            "MD5": "a5d3ac71ec8762fe72a91465de6d30a3"
+          }
+        },
+        {
           "id": "generated.forgemod:ipg2:garage-anniversary-2-0-0@jar",
           "name": "Poker's Garage Anniversary",
           "type": "ForgeMod",
@@ -883,6 +893,16 @@
             "size": 25435696,
             "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/National_War-1.12.2/forgemods/required/Techguns-Mod-1.12.2.jar",
             "MD5": "43ad84191cda8a2aabf55a5e9a3c6adc"
+          }
+        },
+        {
+          "id": "com.mrcrayfish:vehicle:0.44.1@jar",
+          "name": "MrCrayfish's Vehicle Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2139906,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/National_War-1.12.2/forgemods/required/vehicle-mod-0.44.1-1.12.2.jar",
+            "MD5": "276818770667c1bff569d92287c53d95"
           }
         },
         {
@@ -1226,6 +1246,16 @@
           }
         },
         {
+          "id": "com.mrcrayfish.obfuscate.asm:obfuscate:0.4.2-1.12.2_1@jar",
+          "name": "Obfuscate",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 129099,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/Real_Economy-1.12.2/forgemods/required/obfuscate-0.4.2-1.12.2_1.jar",
+            "MD5": "a5d3ac71ec8762fe72a91465de6d30a3"
+          }
+        },
+        {
           "id": "generated.forgemod:ipg2:garage-anniversary-2-0-0@jar",
           "name": "Poker's Garage Anniversary",
           "type": "ForgeMod",
@@ -1253,6 +1283,16 @@
             "size": 237132,
             "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/Real_Economy-1.12.2/forgemods/required/Simple+Parts-Content+Pack-1.12.2-5.7.2%20-%20Copy.jar",
             "MD5": "97d6e5d81d1cd9bf6cd1f1fcec657f4d"
+          }
+        },
+        {
+          "id": "com.mrcrayfish:vehicle:0.44.1@jar",
+          "name": "MrCrayfish's Vehicle Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2139906,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/Real_Economy-1.12.2/forgemods/required/vehicle-mod-0.44.1-1.12.2.jar",
+            "MD5": "276818770667c1bff569d92287c53d95"
           }
         },
         {
