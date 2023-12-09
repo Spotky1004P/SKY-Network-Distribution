@@ -826,26 +826,6 @@
           }
         },
         {
-          "id": "generated.forgemod:modelpack_jk_electrics_20230113:0.0.0@jar",
-          "name": "ModelPack_jk_electrics_20230113",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 21622770,
-            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/National_War-1.12.2/forgemods/required/ModelPack_jk_electrics_20230113.zip",
-            "MD5": "2fd8bfc0885e03e290ccbd2a3c548249"
-          }
-        },
-        {
-          "id": "generated.forgemod:modelpack_rtm_holic_pack_20220516:0.0.0@jar",
-          "name": "ModelPack_RTM_Holic_Pack_20220516",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 37694355,
-            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/National_War-1.12.2/forgemods/required/ModelPack_RTM_Holic_Pack_20220516.zip",
-            "MD5": "50e1a5fd0f70a0b8b81562cce18dde8d"
-          }
-        },
-        {
           "id": "com.flansmod.modernweapons:modernweaponspack:5.8.2@jar",
           "name": "Modern Weapons Pack",
           "type": "ForgeMod",
@@ -866,16 +846,6 @@
           }
         },
         {
-          "id": "jp.ngt:ngtlib:2.4.21@jar",
-          "name": "NGTLib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 369465,
-            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/National_War-1.12.2/forgemods/required/NGTLib2.4.21-38_forge-1.12.2-14.23.2.2611.jar",
-            "MD5": "f22e0ee32b9d142a0d69431d15dc62d3"
-          }
-        },
-        {
           "id": "generated.forgemod:ipg2:garage-anniversary-2-0-0@jar",
           "name": "Poker's Garage Anniversary",
           "type": "ForgeMod",
@@ -883,16 +853,6 @@
             "size": 11555740,
             "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/National_War-1.12.2/forgemods/required/pokers-garage-anniversary-2-0-0.jar",
             "MD5": "172bd97780a73b388d05432ab1c0062d"
-          }
-        },
-        {
-          "id": "jp.ngt:rtm:2.4.24@jar",
-          "name": "RealTrainMod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 19906867,
-            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/National_War-1.12.2/forgemods/required/RTM2.4.24-43_forge-1.12.2-14.23.2.2611.jar",
-            "MD5": "0576dc1e87d03e5e5d6af7ddd16c811a"
           }
         },
         {
@@ -1246,26 +1206,6 @@
           }
         },
         {
-          "id": "generated.forgemod:modelpack_jk_electrics_20230113:0.0.0@jar",
-          "name": "ModelPack_jk_electrics_20230113",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 21622770,
-            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/Real_Economy-1.12.2/forgemods/required/ModelPack_jk_electrics_20230113.zip",
-            "MD5": "2fd8bfc0885e03e290ccbd2a3c548249"
-          }
-        },
-        {
-          "id": "generated.forgemod:modelpack_rtm_holic_pack_20220516:0.0.0@jar",
-          "name": "ModelPack_RTM_Holic_Pack_20220516",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 37694355,
-            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/Real_Economy-1.12.2/forgemods/required/ModelPack_RTM_Holic_Pack_20220516.zip",
-            "MD5": "50e1a5fd0f70a0b8b81562cce18dde8d"
-          }
-        },
-        {
           "id": "com.flansmod.modernweapons:modernweaponspack:5.8.2@jar",
           "name": "Modern Weapons Pack",
           "type": "ForgeMod",
@@ -1286,16 +1226,6 @@
           }
         },
         {
-          "id": "jp.ngt:ngtlib:2.4.21@jar",
-          "name": "NGTLib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 369465,
-            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/Real_Economy-1.12.2/forgemods/required/NGTLib2.4.21-38_forge-1.12.2-14.23.2.2611.jar",
-            "MD5": "f22e0ee32b9d142a0d69431d15dc62d3"
-          }
-        },
-        {
           "id": "generated.forgemod:ipg2:garage-anniversary-2-0-0@jar",
           "name": "Poker's Garage Anniversary",
           "type": "ForgeMod",
@@ -1303,16 +1233,6 @@
             "size": 11555740,
             "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/Real_Economy-1.12.2/forgemods/required/pokers-garage-anniversary-2-0-0.jar",
             "MD5": "172bd97780a73b388d05432ab1c0062d"
-          }
-        },
-        {
-          "id": "jp.ngt:rtm:2.4.24@jar",
-          "name": "RealTrainMod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 19906867,
-            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/Real_Economy-1.12.2/forgemods/required/RTM2.4.24-43_forge-1.12.2-14.23.2.2611.jar",
-            "MD5": "0576dc1e87d03e5e5d6af7ddd16c811a"
           }
         },
         {
