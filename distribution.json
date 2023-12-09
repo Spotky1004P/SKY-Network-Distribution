@@ -924,6 +924,39 @@
             "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/National_War-1.12.2/libraries/OptiFine_1.12.2_HD_U_G5_MOD.jar",
             "MD5": "ecda7ce4335b61303699053c078c9fc5"
           }
+        },
+        {
+          "id": "Modern+Warfare-Content+Pack-1.12.2-5.8.2.jar",
+          "name": "Modern+Warfare-Content+Pack-1.12.2-5.8.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 30240221,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/National_War-1.12.2/files/Flan/Modern+Warfare-Content+Pack-1.12.2-5.8.2.jar",
+            "MD5": "c7fbaf1f1bcdfab62016e61f51a8d347",
+            "path": "Flan/Modern+Warfare-Content+Pack-1.12.2-5.8.2.jar"
+          }
+        },
+        {
+          "id": "Simple+Parts-Content+Pack-1.12.2-5.7.2 - Copy.jar",
+          "name": "Simple+Parts-Content+Pack-1.12.2-5.7.2 - Copy.jar",
+          "type": "File",
+          "artifact": {
+            "size": 237132,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/National_War-1.12.2/files/Flan/Simple+Parts-Content+Pack-1.12.2-5.7.2%20-%20Copy.jar",
+            "MD5": "97d6e5d81d1cd9bf6cd1f1fcec657f4d",
+            "path": "Flan/Simple+Parts-Content+Pack-1.12.2-5.7.2 - Copy.jar"
+          }
+        },
+        {
+          "id": "WW2-Content+Pack-1.12.2-5.7.2.jar",
+          "name": "WW2-Content+Pack-1.12.2-5.7.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 5636950,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/National_War-1.12.2/files/Flan/WW2-Content+Pack-1.12.2-5.7.2.jar",
+            "MD5": "0f4b59db4605f5ccab6ece88d22f21b3",
+            "path": "Flan/WW2-Content+Pack-1.12.2-5.7.2.jar"
+          }
         }
       ]
     },
@@ -1313,6 +1346,50 @@
             "size": 2457427,
             "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/Real_Economy-1.12.2/libraries/OptiFine_1.12.2_HD_U_G5_MOD.jar",
             "MD5": "42c678cd949d1e49a3be822175b8c5ae"
+          }
+        },
+        {
+          "id": "alcara-v1.jar",
+          "name": "alcara-v1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 3733868,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/Real_Economy-1.12.2/files/Flan/alcara-v1.jar",
+            "MD5": "1373f0640bf31fea03f7096e0b9137f0",
+            "path": "Flan/alcara-v1.jar"
+          }
+        },
+        {
+          "id": "Modern+Warfare-Content+Pack-1.12.2-5.8.2.jar",
+          "name": "Modern+Warfare-Content+Pack-1.12.2-5.8.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 30240221,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/Real_Economy-1.12.2/files/Flan/Modern+Warfare-Content+Pack-1.12.2-5.8.2.jar",
+            "MD5": "c7fbaf1f1bcdfab62016e61f51a8d347",
+            "path": "Flan/Modern+Warfare-Content+Pack-1.12.2-5.8.2.jar"
+          }
+        },
+        {
+          "id": "Simple+Parts-Content+Pack-1.12.2-5.7.2 - Copy.jar",
+          "name": "Simple+Parts-Content+Pack-1.12.2-5.7.2 - Copy.jar",
+          "type": "File",
+          "artifact": {
+            "size": 237132,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/Real_Economy-1.12.2/files/Flan/Simple+Parts-Content+Pack-1.12.2-5.7.2%20-%20Copy.jar",
+            "MD5": "97d6e5d81d1cd9bf6cd1f1fcec657f4d",
+            "path": "Flan/Simple+Parts-Content+Pack-1.12.2-5.7.2 - Copy.jar"
+          }
+        },
+        {
+          "id": "WW2-Content+Pack-1.12.2-5.7.2.jar",
+          "name": "WW2-Content+Pack-1.12.2-5.7.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 5636950,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/Real_Economy-1.12.2/files/Flan/WW2-Content+Pack-1.12.2-5.7.2.jar",
+            "MD5": "0f4b59db4605f5ccab6ece88d22f21b3",
+            "path": "Flan/WW2-Content+Pack-1.12.2-5.7.2.jar"
           }
         }
       ]
