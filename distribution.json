@@ -806,13 +806,13 @@
           }
         },
         {
-          "id": "mcinterface1122:mts:22.8.0@jar",
-          "name": "Immersive Vehicles (formerly MTS)",
+          "id": "com.flansmod:flansmod:5.10.0@jar",
+          "name": "Flan's Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 5052475,
-            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/National_War-1.12.2/forgemods/required/Immersive+Vehicles-1.12.2-22.8.0.jar",
-            "MD5": "79111b3ec226cbe5dfcde634482bfecf"
+            "size": 2259973,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/National_War-1.12.2/forgemods/required/Flan's+Mod-1.12.2-5.10.0.jar",
+            "MD5": "0cc53ac00145d96448d5d20eae4e2ed6"
           }
         },
         {
@@ -843,16 +843,6 @@
             "size": 129099,
             "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/National_War-1.12.2/forgemods/required/obfuscate-0.4.2-1.12.2%20(1).jar",
             "MD5": "a5d3ac71ec8762fe72a91465de6d30a3"
-          }
-        },
-        {
-          "id": "generated.forgemod:ipg2:garage-anniversary-2-0-0@jar",
-          "name": "Poker's Garage Anniversary",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 11555740,
-            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/National_War-1.12.2/forgemods/required/pokers-garage-anniversary-2-0-0.jar",
-            "MD5": "172bd97780a73b388d05432ab1c0062d"
           }
         },
         {
@@ -1176,13 +1166,13 @@
           }
         },
         {
-          "id": "mcinterface1122:mts:22.8.0@jar",
-          "name": "Immersive Vehicles (formerly MTS)",
+          "id": "com.flansmod:flansmod:5.10.0@jar",
+          "name": "Flan's Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 5052475,
-            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/Real_Economy-1.12.2/forgemods/required/Immersive+Vehicles-1.12.2-22.8.0.jar",
-            "MD5": "79111b3ec226cbe5dfcde634482bfecf"
+            "size": 2259973,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/Real_Economy-1.12.2/forgemods/required/Flan's+Mod-1.12.2-5.10.0.jar",
+            "MD5": "0cc53ac00145d96448d5d20eae4e2ed6"
           }
         },
         {
@@ -1213,26 +1203,6 @@
             "size": 129099,
             "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/Real_Economy-1.12.2/forgemods/required/obfuscate-0.4.2-1.12.2%20(1).jar",
             "MD5": "a5d3ac71ec8762fe72a91465de6d30a3"
-          }
-        },
-        {
-          "id": "net.optifine:optifine:1.12.2_HD_U_G5@jar",
-          "name": "OptiFine 1.12.2_HD_U_G5",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2669107,
-            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/Real_Economy-1.12.2/forgemods/required/OptiFine_1.12.2_HD_U_G5.jar",
-            "MD5": "54e561e441192cf009803ae95873c5d0"
-          }
-        },
-        {
-          "id": "generated.forgemod:ipg2:garage-anniversary-2-0-0@jar",
-          "name": "Poker's Garage Anniversary",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 11555740,
-            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/Real_Economy-1.12.2/forgemods/required/pokers-garage-anniversary-2-0-0.jar",
-            "MD5": "172bd97780a73b388d05432ab1c0062d"
           }
         },
         {
@@ -1683,6 +1653,16 @@
           ]
         },
         {
+          "id": "com.github.alexthe666:citadel:1.11.3@jar",
+          "name": "Citadel",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 503137,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/RPG-1.18.2/forgemods/required/citadel-1.11.3-1.18.2%20(1).jar",
+            "MD5": "fffef0755c3ac225d55b91357f2d9823"
+          }
+        },
+        {
           "id": "com.jvn:epicaddon:1.0.5.10@jar",
           "name": "EpicAddon",
           "type": "ForgeMod",
@@ -1710,6 +1690,16 @@
             "size": 1379168,
             "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/RPG-1.18.2/forgemods/required/EpicfightPirates-1.2.jar",
             "MD5": "c357094cd02d8623b5e1c8342c615ce8"
+          }
+        },
+        {
+          "id": "com.github.alexthe666:iceandfire:2.1.12-1.18.2@jar",
+          "name": "Ice and Fire",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 21527416,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/RPG-1.18.2/forgemods/required/iceandfire-2.1.12-1.18.2.jar",
+            "MD5": "95d9a4324b9f2f48e7d18e38c6725b2f"
           }
         },
         {
@@ -2331,6 +2321,36 @@
               }
             }
           ]
+        },
+        {
+          "id": "com.github.alexmodguy.alexscaves:alexscaves:1.0.9@jar",
+          "name": "Alexscaves",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 75990251,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/Survival-1.12.2/forgemods/required/alexscaves-1.0.9.jar",
+            "MD5": "181e642e940df0aaab0d5a30cce88b40"
+          }
+        },
+        {
+          "id": "com.github.alexthe666.alexsmobs:alexsmobs:1.22.7@jar",
+          "name": "Alexsmobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 26039289,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/Survival-1.12.2/forgemods/required/alexsmobs-1.22.7.jar",
+            "MD5": "27da252e7f0dba04d007812ef1195519"
+          }
+        },
+        {
+          "id": "com.github.alexthe666.citadel:citadel:2.4.9-1.20.1@jar",
+          "name": "Citadel",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3074057,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/Survival-1.12.2/forgemods/required/citadel-2.4.9-1.20.1.jar",
+            "MD5": "c389f7a899dc0c6263e66d6b2102e88f"
+          }
         }
       ]
     }
