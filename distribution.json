@@ -776,16 +776,6 @@
           }
         },
         {
-          "id": "com.anatawa12.fixrtm.jarinjar:fixrtm:2.0.28@jar",
-          "name": "FixRtm",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3653033,
-            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/National_War-1.12.2/forgemods/required/fixRtm-2.0.28.jar",
-            "MD5": "0579deafebb307518de1df66f80171d8"
-          }
-        },
-        {
           "id": "com.flansmod:flansmod:5.10.0@jar",
           "name": "Flan's Mod",
           "type": "ForgeMod",
@@ -806,26 +796,6 @@
           }
         },
         {
-          "id": "generated.forgemod:modelpack_nak_o_korail_220919:0.0.0@jar",
-          "name": "ModelPack_Nak_O_Korail_220919",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 45631271,
-            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/National_War-1.12.2/forgemods/required/ModelPack_Nak_O_Korail_220919.zip",
-            "MD5": "5731e598a9ff66fe0421c58f90a77493"
-          }
-        },
-        {
-          "id": "generated.forgemod:modelpack_pc28ksoundlib_revision:0.0.0@jar",
-          "name": "ModelPack_pc28ksoundlib_revision",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3447962,
-            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/National_War-1.12.2/forgemods/required/ModelPack_pc28ksoundlib_revision.zip",
-            "MD5": "dc6aaacc6b410bf0a253dea145f9dcd3"
-          }
-        },
-        {
           "id": "com.elytradev:MovingWorld:1.12-6.353@jar",
           "name": "Moving World",
           "type": "ForgeMod",
@@ -836,16 +806,6 @@
           }
         },
         {
-          "id": "jp.ngt:ngtlib:2.4.21@jar",
-          "name": "NGTLib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 369465,
-            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/National_War-1.12.2/forgemods/required/NGTLib2.4.21-38_forge-1.12.2-14.23.2.2611.jar",
-            "MD5": "f22e0ee32b9d142a0d69431d15dc62d3"
-          }
-        },
-        {
           "id": "com.mrcrayfish.obfuscate.asm:obfuscate:0.4.2-1.12.2 (1)@jar",
           "name": "Obfuscate",
           "type": "ForgeMod",
@@ -853,16 +813,6 @@
             "size": 129099,
             "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/National_War-1.12.2/forgemods/required/obfuscate-0.4.2-1.12.2%20(1).jar",
             "MD5": "a5d3ac71ec8762fe72a91465de6d30a3"
-          }
-        },
-        {
-          "id": "jp.ngt:rtm:2.4.24@jar",
-          "name": "RealTrainMod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 19906867,
-            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/National_War-1.12.2/forgemods/required/RTM2.4.24-43_forge-1.12.2-14.23.2.2611.jar",
-            "MD5": "0576dc1e87d03e5e5d6af7ddd16c811a"
           }
         },
         {
@@ -903,6 +853,28 @@
             "size": 2457427,
             "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/National_War-1.12.2/libraries/OptiFine_1.12.2_HD_U_G5_MOD.jar",
             "MD5": "31fe353ced7a18673b5e1174ccf8765f"
+          }
+        },
+        {
+          "id": "alcara-v1.jar",
+          "name": "alcara-v1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 3733868,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/National_War-1.12.2/files/Flan/alcara-v1.jar",
+            "MD5": "1373f0640bf31fea03f7096e0b9137f0",
+            "path": "Flan/alcara-v1.jar"
+          }
+        },
+        {
+          "id": "Simple+Parts-Content+Pack-1.12.2-5.7.2 (1).jar",
+          "name": "Simple+Parts-Content+Pack-1.12.2-5.7.2 (1).jar",
+          "type": "File",
+          "artifact": {
+            "size": 237132,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/National_War-1.12.2/files/Flan/Simple+Parts-Content+Pack-1.12.2-5.7.2%20(1).jar",
+            "MD5": "97d6e5d81d1cd9bf6cd1f1fcec657f4d",
+            "path": "Flan/Simple+Parts-Content+Pack-1.12.2-5.7.2 (1).jar"
           }
         }
       ]
@@ -1176,16 +1148,6 @@
           }
         },
         {
-          "id": "com.anatawa12.fixrtm.jarinjar:fixrtm:2.0.28@jar",
-          "name": "FixRtm",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3653033,
-            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/Real_Economy-1.12.2/forgemods/required/fixRtm-2.0.28.jar",
-            "MD5": "0579deafebb307518de1df66f80171d8"
-          }
-        },
-        {
           "id": "com.flansmod:flansmod:5.10.0@jar",
           "name": "Flan's Mod",
           "type": "ForgeMod",
@@ -1206,26 +1168,6 @@
           }
         },
         {
-          "id": "generated.forgemod:modelpack_nak_o_korail_220919:0.0.0@jar",
-          "name": "ModelPack_Nak_O_Korail_220919",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 45631271,
-            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/Real_Economy-1.12.2/forgemods/required/ModelPack_Nak_O_Korail_220919.zip",
-            "MD5": "5731e598a9ff66fe0421c58f90a77493"
-          }
-        },
-        {
-          "id": "generated.forgemod:modelpack_pc28ksoundlib_revision:0.0.0@jar",
-          "name": "ModelPack_pc28ksoundlib_revision",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3447962,
-            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/Real_Economy-1.12.2/forgemods/required/ModelPack_pc28ksoundlib_revision.zip",
-            "MD5": "dc6aaacc6b410bf0a253dea145f9dcd3"
-          }
-        },
-        {
           "id": "com.elytradev:MovingWorld:1.12-6.353@jar",
           "name": "Moving World",
           "type": "ForgeMod",
@@ -1236,16 +1178,6 @@
           }
         },
         {
-          "id": "jp.ngt:ngtlib:2.4.21@jar",
-          "name": "NGTLib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 369465,
-            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/Real_Economy-1.12.2/forgemods/required/NGTLib2.4.21-38_forge-1.12.2-14.23.2.2611.jar",
-            "MD5": "f22e0ee32b9d142a0d69431d15dc62d3"
-          }
-        },
-        {
           "id": "com.mrcrayfish.obfuscate.asm:obfuscate:0.4.2-1.12.2 (1)@jar",
           "name": "Obfuscate",
           "type": "ForgeMod",
@@ -1253,16 +1185,6 @@
             "size": 129099,
             "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/Real_Economy-1.12.2/forgemods/required/obfuscate-0.4.2-1.12.2%20(1).jar",
             "MD5": "a5d3ac71ec8762fe72a91465de6d30a3"
-          }
-        },
-        {
-          "id": "jp.ngt:rtm:2.4.24@jar",
-          "name": "RealTrainMod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 19906867,
-            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/Real_Economy-1.12.2/forgemods/required/RTM2.4.24-43_forge-1.12.2-14.23.2.2611.jar",
-            "MD5": "0576dc1e87d03e5e5d6af7ddd16c811a"
           }
         },
         {
@@ -1303,6 +1225,28 @@
             "size": 2457427,
             "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/Real_Economy-1.12.2/libraries/OptiFine_1.12.2_HD_U_G5_MOD.jar",
             "MD5": "b1fb2ce34a20fc2c07de02fed0ac94bd"
+          }
+        },
+        {
+          "id": "alcara-v1.jar",
+          "name": "alcara-v1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 3733868,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/Real_Economy-1.12.2/files/Flan/alcara-v1.jar",
+            "MD5": "1373f0640bf31fea03f7096e0b9137f0",
+            "path": "Flan/alcara-v1.jar"
+          }
+        },
+        {
+          "id": "Simple+Parts-Content+Pack-1.12.2-5.7.2 (1).jar",
+          "name": "Simple+Parts-Content+Pack-1.12.2-5.7.2 (1).jar",
+          "type": "File",
+          "artifact": {
+            "size": 237132,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/Real_Economy-1.12.2/files/Flan/Simple+Parts-Content+Pack-1.12.2-5.7.2%20(1).jar",
+            "MD5": "97d6e5d81d1cd9bf6cd1f1fcec657f4d",
+            "path": "Flan/Simple+Parts-Content+Pack-1.12.2-5.7.2 (1).jar"
           }
         }
       ]
@@ -2041,6 +1985,76 @@
               }
             }
           ]
+        },
+        {
+          "id": "moe.plushie:armourers_workshop:1.12.2-0.50.4@jar",
+          "name": "Armourer's Workshop",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2625998,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/SpaceFPS-1.12.2/forgemods/required/Armourers-Workshop-1.12.2-0.50.4.jar",
+            "MD5": "c6721266da59988567ff1e640ca8de05"
+          }
+        },
+        {
+          "id": "com.mjr:extraplanets:1.12.2-0.7.6@jar",
+          "name": "Extra Planets",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8693383,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/SpaceFPS-1.12.2/forgemods/required/ExtraPlanets-1.12.2-0.7.6.jar",
+            "MD5": "a58f803fdf7e42b61cd663e949837c38"
+          }
+        },
+        {
+          "id": "micdoodle8.mods.galacticraft.core:galacticraftcore:4.0.6@jar",
+          "name": "Galacticraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15679501,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/SpaceFPS-1.12.2/forgemods/required/Galacticraft-1.12.2-4.0.6.jar",
+            "MD5": "cb4cc1f63559675971914c8742d89c32"
+          }
+        },
+        {
+          "id": "com.mjr:mjrlegendslib:1.12.2-1.2.1@jar",
+          "name": "MJRLegendsLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 116827,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/SpaceFPS-1.12.2/forgemods/required/MJRLegendsLib-1.12.2-1.2.1.jar",
+            "MD5": "2574d7dded03b088be7ff5909f66d9c9"
+          }
+        },
+        {
+          "id": "net.optifine:optifine:1.12.2_HD_U_G5@jar",
+          "name": "OptiFine 1.12.2_HD_U_G5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2669107,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/SpaceFPS-1.12.2/forgemods/required/OptiFine_1.12.2_HD_U_G5.jar",
+            "MD5": "54e561e441192cf009803ae95873c5d0"
+          }
+        },
+        {
+          "id": "sereneseasons.core:sereneseasons:1.2.18@jar",
+          "name": "Serene Seasons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 185187,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/SpaceFPS-1.12.2/forgemods/required/SereneSeasons-1.12.2-1.2.18-universal.jar",
+            "MD5": "ef89fab62d1914ea0e25d2c31b453695"
+          }
+        },
+        {
+          "id": "techguns:techguns:1.12.2-2.0.1.2@jar",
+          "name": "Techguns",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25435696,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/SpaceFPS-1.12.2/forgemods/required/Techguns-Mod-1.12.2.jar",
+            "MD5": "43ad84191cda8a2aabf55a5e9a3c6adc"
+          }
         }
       ]
     },
