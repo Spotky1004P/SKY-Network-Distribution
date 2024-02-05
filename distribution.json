@@ -1239,6 +1239,17 @@
           }
         },
         {
+          "id": "Modern Warfare-Content Pack-1.12.2-5.8.2.jar",
+          "name": "Modern Warfare-Content Pack-1.12.2-5.8.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 30240221,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/Real_Economy-1.12.2/files/Flan/Modern%20Warfare-Content%20Pack-1.12.2-5.8.2.jar",
+            "MD5": "c7fbaf1f1bcdfab62016e61f51a8d347",
+            "path": "Flan/Modern Warfare-Content Pack-1.12.2-5.8.2.jar"
+          }
+        },
+        {
           "id": "Simple+Parts-Content+Pack-1.12.2-5.7.2 (1).jar",
           "name": "Simple+Parts-Content+Pack-1.12.2-5.7.2 (1).jar",
           "type": "File",
@@ -1247,6 +1258,17 @@
             "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/Real_Economy-1.12.2/files/Flan/Simple+Parts-Content+Pack-1.12.2-5.7.2%20(1).jar",
             "MD5": "97d6e5d81d1cd9bf6cd1f1fcec657f4d",
             "path": "Flan/Simple+Parts-Content+Pack-1.12.2-5.7.2 (1).jar"
+          }
+        },
+        {
+          "id": "VellEagle Super Cars Pack.jar",
+          "name": "VellEagle Super Cars Pack.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2520688,
+            "url": "https://github.com/Spotky1004P/SKY-Network-Distribution/raw/main/servers/Real_Economy-1.12.2/files/Flan/VellEagle%20Super%20Cars%20Pack.jar",
+            "MD5": "2bbc9c4875e155e1e8691d21507f4458",
+            "path": "Flan/VellEagle Super Cars Pack.jar"
           }
         }
       ]
